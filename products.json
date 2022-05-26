@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Nora Pro",
+    "features": [
+      "User:Pass Authentication",
+      "Instant Discord Access",
+      "24/7 Proxy up-time",
+      "1:1 Personal Support",
+      "30 Day Expiration"
+    ],
+    "sites": ["Will Work On", "Supreme US", "Yeezy Supply", "Footsites", "Shopify"],
+    "options": "",
+    "active": true,
+    "purchaseOptions": [
+      { "name": "2GB ($22)", "price": 22.0 },
+      { "name": "4GB ($43)", "price": 43.0 },
+      { "name": "6GB ($63)", "price": 63.0 },
+      { "name": "8GB ($82)", "price": 82.0 },
+      { "name": "10GB ($100)", "price": 100.0 },
+      { "name": "12GB ($117)", "price": 117.0 }
+    ]
+  },
+  {
+    "title": "Nora Elite",
+    "features": [
+      "User:Pass Authentication",
+      "Instant Discord Access",
+      "24/7 Proxy up-time",
+      "1:1 Personal Support",
+      "30 Day Expiration"
+    ],
+    "sites": ["Will Work On", "Retail sites", "+ more"],
+    "options": "",
+    "active": true,
+    "purchaseOptions": [
+      { "name": "2GB ($28)", "price": 28.0 },
+      { "name": "4GB ($55.40)", "price": 54.4 },
+      { "name": "6GB ($81.90)", "price": 81.9 },
+      { "name": "8GB ($107.60)", "price": 107.6 },
+      { "name": "10GB ($133)", "price": 133 },
+      { "name": "12GB (158.40)", "price": 158.4 }
+    ]
+  },
+  {
+    "title": "Nora ISP",
+    "features": ["Open a ticket in our discord to purchase"],
+    "sites": [],
+    "options": "",
+    "active": false,
+    "purchaseOptions": [
+      { "name": "2GB", "price": 34.0 },
+      { "name": "4GB", "price": 67.0 },
+      { "name": "6GB", "price": 97.5 },
+      { "name": "8GB", "price": 128.0 },
+      { "name": "10GB", "price": 157.5 },
+      { "name": "12GB", "price": 186.0 }
+    ]
+  }
+]
