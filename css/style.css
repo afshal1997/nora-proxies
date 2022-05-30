@@ -1250,6 +1250,23 @@ textarea,
   background-color: #7d615c;
 }
 
-.css-nvf14r-ToastContainer{
+.css-nvf14r-ToastContainer {
   z-index: 9999 !important;
+}
+
+@media screen and (max-width: 991px) {
+  .home-hero {
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 140px 10px 100px;
+  }
+
+  nav.navbar.navbar-expand-lg.navbar-transparent.bg-transparent.fixed-top {
+    background-color: #7d615c !important;
+  }
+
+  .nora-logo {
+    max-width: 50px;
+  }
 }

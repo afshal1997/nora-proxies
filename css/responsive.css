@@ -6,39 +6,51 @@
         right: 15px;
         width: 9px;
     }
+
     .proxies-select .nice-select {
         font-size: 14px;
     }
+
     .proxies-select .dataicon {
         padding: 9px 10px;
     }
+
     .pan-time h5 {
         font-size: 20px;
     }
+
     .plan-text {
         width: 65%;
     }
+
     .plan-active {
         width: 35%;
     }
+
     .por-txt h4 {
         font-size: 22px;
     }
+
     .generate-proxies h4 {
         font-size: 22px;
     }
+
     .popup-box h4 {
         font-size: 22px;
     }
+
     .por-txt span {
         font-size: 16px;
     }
+
     .logo-dashboard img {
         width: 280px;
     }
+
     .pan-time h5 span {
         font-size: 16px;
     }
+
     .active-txt h4 {
         font-size: 15px;
     }
@@ -54,84 +66,109 @@
         right: 15px;
         width: 9px;
     }
+
     .proxies-select .nice-select {
         font-size: 14px;
     }
+
     .proxies-select .dataicon {
         padding: 9px 10px;
     }
+
     .pan-time h5 {
         font-size: 20px;
     }
+
     .plan-text {
         width: 65%;
     }
+
     .plan-active {
         width: 35%;
     }
+
     .por-txt h4 {
         font-size: 22px;
     }
+
     .generate-proxies h4 {
         font-size: 22px;
     }
+
     .popup-box h4 {
         font-size: 22px;
     }
+
     .por-txt span {
         font-size: 16px;
     }
+
     .logo-dashboard img {
         width: 280px;
     }
+
     .pan-time h5 span {
         font-size: 16px;
     }
+
     .active-txt h4 {
         font-size: 15px;
     }
+
     .plan-text h4 {
         font-size: 30px;
     }
+
     .nice-select {
         font-size: 18px;
     }
+
     .proxies-plan-wrap {
         padding: 15px;
     }
+
     .proxies-table-wrap {
         padding: 15px 15px;
     }
+
     .proxies-table {
         padding: 15px;
     }
+
     table.table tr {
         font-size: 12px;
         line-height: 18px;
         letter-spacing: 0;
     }
+
     .table-icon img {
         width: 20px;
     }
+
     .table-icon button {
         font-size: 18px;
     }
+
     .proxies-select .price-box {
         margin-bottom: 15px;
     }
+
     .btn-purches button {
         height: 90px;
         font-size: 20px;
     }
+
     .proxies-table {
         height: 620px;
     }
+
     .header-all-btn a {
         width: 160px;
         height: 55px;
         margin-left: 15px;
         font-size: 18px;
     }
+
     .isp-btn button {
         font-size: 20px;
     }
@@ -139,55 +176,71 @@
     .proxy-type .dataicon {
         display: none;
     }
+
     .mainmenu ul li a {
         font-size: 18px;
     }
+
     .hero-text h1 {
         font-size: 120px;
     }
+
     .hero-text h4 {
         font-size: 40px;
     }
+
     .hero-text p {
         font-size: 36px;
     }
+
     header.header-area {
         padding: 25px 0;
     }
+
     .promo-text h2 {
         font-size: 50px;
         line-height: 80px;
     }
+
     .promo-text p {
         font-size: 26px;
         line-height: 45px;
     }
+
     .pricing-title h4 {
         font-size: 30px;
     }
+
     .work-txt h5 {
         font-size: 24px;
     }
+
     .work-txt p {
         font-size: 18px;
     }
+
     .work-txt li a {
         font-size: 20px;
         line-height: 25px;
     }
+
     .price-dtls ul li {
         font-size: 18px;
     }
+
     .features-txt p {
         font-size: 16px;
         line-height: 28px;
     }
+
     .footer-menu li a {
         font-size: 18px;
     }
+
     .footer-btn a {
         font-size: 20px;
     }
+
     .copyright p {
         font-size: 18px;
     }
@@ -205,48 +258,62 @@
     .proxy-type .dataicon {
         display: none;
     }
-    .proxy-type  .nice-select {
+
+    .proxy-type .nice-select {
         font-size: 14px;
         width: 100%;
     }
+
     .proxies-plan-wrap h3 {
         font-size: 24px;
     }
+
     .pan-time h5 {
         font-size: 16px;
     }
+
     .pan-time h5 span {
         font-size: 13px;
     }
+
     .pan-time p {
         font-size: 16px;
     }
+
     .plan-active {
         padding: 12px;
         height: 290px;
     }
+
     .plan-text h4 {
         font-size: 25px;
     }
+
     .pan-time {
         margin-top: 30px;
     }
+
     .plan-text {
         height: 290px;
     }
+
     .proxies-table {
         height: 595px;
     }
+
     .header-all-btn a img {
         width: 22px;
     }
+
     .nice-select .option {
         font-size: 16px;
     }
+
     table.table tr {
         font-size: 11px;
         line-height: 16px;
     }
+
     .logo-dashboard img {
         width: 210px;
     }
@@ -275,111 +342,142 @@
         max-width: 900px;
         margin: 0 auto;
     }
+
     .proxies-left {
         width: 100%;
         margin-bottom: 50px;
     }
+
     .proxies-right {
         width: 100%;
     }
+
     .header-all-btn a {
         width: 150px;
         height: 50px;
         margin-left: 15px;
         font-size: 17px;
     }
+
     .logo-dashboard img {
         width: 200px;
     }
+
     .mainmenu ul li a {
         font-size: 18px;
     }
+
     .hero-text h1 {
         font-size: 100px;
         line-height: 120px;
     }
+
     .mainmenu ul li {
         display: inline;
         margin-left: 50px;
     }
+
     .hero-text h4 {
         font-size: 40px;
         line-height: 50px;
     }
+
     .hero-text p {
         font-size: 32px;
     }
+
     .promo-text h2 {
         font-size: 45px;
         line-height: 60px;
     }
+
     .promo-text p {
         font-size: 22px;
         line-height: 36px;
     }
+
     .area-title h2 {
         font-size: 40px;
         line-height: 60px;
     }
+
     .pricing-title h4 {
         font-size: 28px;
     }
+
     .work-txt h5 {
         font-size: 22px;
         line-height: 32px;
     }
+
     .work-txt li a {
         font-size: 20px;
         line-height: 20px;
     }
+
     .work-txt p {
         font-size: 15px;
     }
+
     .price-dtls ul li {
         font-size: 15px;
     }
+
     .nice-select {
         width: 90%;
         font-size: 16px;
     }
+
     .dataicon {
         padding: 15px 16px;
     }
+
     .price-btn a {
         font-size: 17px;
     }
+
     .features-txt p {
         font-size: 16px;
     }
-    .features-txt p br{
+
+    .features-txt p br {
         display: none;
     }
+
     .features-txt h3 {
         font-size: 25px;
         line-height: 32px;
     }
+
     .copyright p {
         font-size: 16px;
     }
+
     .footer-menu li a {
         font-size: 16px;
     }
+
     .footer-btn a {
         font-size: 16px;
         padding: 10px 30px;
     }
+
     .footer-btn a img {
         width: 20px;
     }
+
     .hero-area {
         height: 768px;
     }
+
     .hero-text {
         margin-top: 50px;
     }
+
     .promo-area {
         padding-top: 0;
     }
+
     .promo-area {
         padding-bottom: 0;
     }
@@ -388,7 +486,7 @@
 
 
 }
- 
+
 
 
 
@@ -401,13 +499,16 @@
         max-width: 900px;
         margin: 0 auto;
     }
+
     .proxies-left {
         width: 100%;
         margin-bottom: 50px;
     }
+
     .proxies-right {
         width: 100%;
     }
+
     .header-all-btn a {
         width: auto;
         height: 50px;
@@ -415,217 +516,276 @@
         font-size: 15px;
         padding: 10px 15px;
     }
+
     .generate-proxies h4 {
         font-size: 22px;
     }
+
     .proxy-type .dataicon {
         display: none;
     }
+
     .proxy-type .nice-select {
         width: 100%;
     }
+
     .nice-select:after {
         height: 10px;
         margin-top: -7px;
         right: 20px;
         width: 10px;
     }
+
     .pan-time h5 {
         font-size: 20px;
     }
+
     .pan-time p {
         font-size: 16px;
     }
+
     .plan-text h4 {
         font-size: 30px;
     }
+
     .pan-time {
         margin-top: 25px;
     }
+
     .plan-text {
         width: 65%;
         height: 280px;
     }
+
     .plan-active {
         padding: 10px;
         text-align: center;
         width: 35%;
         height: 280px;
     }
+
     .header-all-btn a img {
         width: 20px;
         margin-right: 12px;
     }
+
     .table-icon button {
         font-size: 18px;
     }
+
     .table-icon img {
         width: 20px;
     }
+
     .proxies-main-wrapper {
         display: block;
         justify-content: space-between;
         max-width: 900px;
         margin: 0 auto;
     }
+
     .proxies-left {
         width: 100%;
         margin-bottom: 50px;
     }
+
     .proxies-right {
         width: 100%;
     }
+
     .header-all-btn a {
         width: 150px;
         height: 50px;
         margin-left: 15px;
         font-size: 17px;
     }
+
     .logo-dashboard img {
         width: 200px;
     }
+
     .mainmenu ul li a {
         font-size: 18px;
     }
+
     .hero-text h1 {
         font-size: 80px;
         line-height: 120px;
     }
+
     .mainmenu ul li {
         display: inline;
         margin-left: 50px;
     }
+
     .hero-text h4 {
         font-size: 40px;
         line-height: 50px;
     }
+
     .hero-text p {
         font-size: 32px;
     }
+
     .promo-text h2 {
         font-size: 40px;
         line-height: 50px;
     }
+
     .promo-text p {
         font-size: 20px;
         line-height: 32px;
     }
+
     .area-title h2 {
         font-size: 40px;
         line-height: 60px;
     }
+
     .pricing-title h4 {
         font-size: 28px;
     }
+
     .work-txt h5 {
         font-size: 18px;
         line-height: 32px;
     }
+
     .work-txt li a {
         font-size: 18px;
         line-height: 20px;
     }
+
     .work-txt p {
         font-size: 15px;
     }
+
     .price-dtls ul li {
         font-size: 15px;
     }
+
     .nice-select {
         width: 90%;
         font-size: 14px;
     }
+
     .dataicon {
         padding: 15px 16px;
     }
+
     .price-btn a {
         font-size: 17px;
     }
+
     .features-txt p {
         font-size: 16px;
     }
-    .features-txt p br{
+
+    .features-txt p br {
         display: none;
     }
+
     .features-txt h3 {
         font-size: 25px;
         line-height: 32px;
     }
+
     .copyright p {
         font-size: 14px;
     }
+
     .footer-menu li a {
         font-size: 14px;
     }
+
     .footer-btn a {
         font-size: 14px;
         padding: 10px 22px;
     }
+
     .footer-btn a img {
         width: 20px;
     }
+
     .hero-area {
         height: 768px;
     }
+
     .hero-text {
         margin-top: 50px;
     }
+
     .promo-area {
         padding-top: 0;
     }
+
     .promo-area {
         padding-bottom: 0;
     }
+
     .promo-video iframe {
         width: 600px;
         height: 400px;
     }
+
     .login-btn a {
         font-size: 16px;
         padding: 10px 30px;
     }
+
     .mainmenu ul li {
         margin-left: 30px;
     }
+
     .mainmenu ul li a {
         font-size: 16px;
     }
+
     .login-btn {
         margin-left: 35px;
     }
+
     .mainmenu li:first-child {
         margin: 0;
     }
+
     .logo h4 {
         font-size: 22px;
     }
+
     .work-txt {
         padding: 20px 15px;
     }
+
     .price-select {
         margin: 15px 0;
         padding: 0 15px;
     }
+
     .price-btn {
         margin: 15px 0;
         padding: 0 15px;
     }
+
     .nice-select .option {
         font-size: 15px;
     }
+
     footer {
         padding: 20px 0;
     }
+
     .features-txt {
         padding: 25px 30px;
     }
+
     header.header-area {
         padding: 20px 0;
     }
 
 
 }
- 
+
 
 
 
@@ -640,111 +800,139 @@
         max-width: 900px;
         margin: 0 auto;
     }
+
     .proxies-left {
         width: 100%;
         margin-bottom: 50px;
     }
+
     .proxies-right {
         width: 100%;
     }
+
     .proxies-table-wrap {
         padding: 15px 15px;
     }
+
     .table-icon button {
         padding: 10px 15px;
         font-size: 14px;
         height: 50px;
         margin-right: 10px;
     }
+
     .table-icon img {
         width: 15px;
     }
+
     .isp-btn button {
         height: 50px;
         font-weight: 500;
         font-size: 18px;
         line-height: 30px;
     }
+
     .proxies-plan-wrap {
         padding: 15px;
     }
+
     .plan-text h4 {
         font-size: 30px;
         line-height: 40px;
     }
+
     .pan-time p {
         font-size: 14px;
     }
+
     .pan-time h5 {
         font-size: 16px;
         line-height: 28px;
     }
+
     .pan-time h5 span {
         font-size: 14px;
         line-height: 27px;
     }
+
     .plan-active {
         padding: 10px;
         width: 30%;
         height: 270px;
     }
+
     .pan-time {
         margin-top: 25px;
     }
+
     .plan-text {
         padding: 15px;
         height: 270px;
     }
+
     .proxies-plan-wrap h3 {
         font-size: 24px;
         line-height: 40px;
     }
+
     .plan-box {
         display: inline-block;
         width: 100%;
         margin-bottom: 15px;
     }
+
     .amount-input {
         width: 100%;
     }
+
     .nice-select:after {
         height: 10px;
         margin-top: -7px;
         right: 15px;
         width: 10px;
     }
+
     .popup-select .price-box {
         height: 55px;
         margin-bottom: 20px;
     }
+
     .popup-select .nice-select {
         line-height: 55px;
         font-size: 18px;
     }
+
     .popup-select .dataicon {
         line-height: 22px;
         padding: 15px 20px;
     }
+
     .btn-purches button {
         height: 55px;
         font-size: 18px;
     }
+
     .popup-box h4 {
         font-size: 22px;
     }
+
     .por-txt span {
         font-size: 17px;
     }
+
     .generate-proxies h4 {
         font-size: 22px;
     }
+
     .logo-dashboard img {
         width: 200px;
     }
+
     .logo-dashboard {
         text-align: center;
         margin-bottom: 25px;
     }
+
     .header-all-btn a {
         width: auto;
         height: auto;
@@ -754,26 +942,32 @@
         display: inline-block;
         padding: 10px 25px;
     }
+
     .header-all-btn {
         display: block;
         text-align: center;
     }
+
     .header-all-btn a img {
         width: 21px;
         margin-right: 15px;
     }
+
     .por-txt h4 {
         font-size: 22px;
     }
+
     table.table {
         width: 700px !important;
         max-width: 700px !important;
     }
+
     .promo-video iframe {
         width: 300px;
         height: 250px;
         margin: 0 auto;
     }
+
     .mainmenu {
         position: fixed;
         width: 260px;
@@ -792,125 +986,157 @@
         font-size: 80px;
         line-height: 100px;
     }
+
     .hero-text p {
         font-size: 25px;
         line-height: 40px;
     }
+
     .hero-text h4 {
         font-size: 28px;
         line-height: 36px;
         letter-spacing: 8px;
     }
+
     .logo h4 {
         font-size: 22px;
         line-height: 32px;
     }
+
     header.header-area {
         padding: 15px 0;
     }
+
     .login-btn a {
         font-size: 15px;
         padding: 8px 25px;
         border: 1px solid #FBC2B4;
     }
+
     .login-btn {
         margin-left: 0;
         margin-right: 20px;
     }
+
     .promo-text {
         border-radius: 18px;
-        padding:30px 15px;
+        padding: 30px 15px;
         margin-bottom: 50px;
     }
+
     .promo-text p {
         font-size: 16px;
         line-height: 32px;
     }
+
     .promo-text h2 {
         font-size: 30px;
         line-height: 40px;
     }
+
     .hero-area {
         padding-top: 150px;
         padding-bottom: 100px;
         height: auto;
     }
+
     .area-title h2 {
         font-size: 32px;
         line-height: 45px;
     }
+
     .pricing-title h4 {
         font-size: 30px;
     }
+
     .work-txt h5 {
         font-size: 22px;
         line-height: 32px;
     }
+
     .work-txt li a {
         font-size: 18px;
         line-height: 25px;
     }
+
     .work-txt p {
         font-size: 16px;
         line-height: 31px;
     }
+
     .price-dtls ul li {
         font-size: 16px;
         line-height: 31px;
     }
+
     .price-select {
         padding: 0 25px;
     }
+
     .nice-select {
         font-size: 18px;
     }
+
     .pricing-table {
         height: auto;
         margin-bottom: 50px;
     }
-    .pricing-table_3{
+
+    .pricing-table_3 {
         height: 500px;
     }
+
     .features-txt p {
         font-size: 16px;
     }
+
     .features-txt {
         padding: 25px 30px;
     }
+
     .features-txt h3 {
         font-size: 24px;
     }
+
     .footer-right {
         width: 100%;
         display: block;
     }
+
     .copyright {
         width: 100%;
         text-align: center;
         margin-bottom: 15px;
     }
+
     .footer-wrap {
         display: block;
         text-align: center;
     }
+
     .footer-menu li a {
         font-size: 15px;
         line-height: 30px;
     }
+
     .footer-menu li a {
         font-size: 15px;
     }
+
     .footer-menu ul {
         display: block;
     }
+
     .footer-menu {
         width: 100%;
     }
+
     .footer-btn a {
         font-size: 16px;
         letter-spacing: .5px;
         padding: 10px 25px;
     }
+
     .footer-btn {
         width: 100%;
         display: flex;
@@ -918,43 +1144,53 @@
         align-items: center;
         margin-top: 20px;
     }
+
     .copyright p {
         font-size: 16px;
     }
+
     .footer-menu li {
         display: inline-block;
         margin: 5px 10px;
     }
+
     .pricing-area {
         padding-top: 0;
     }
+
     .menu_trigger span {
         display: block;
         height: 2px;
         background: #fff;
         width: 100%;
     }
+
     .menu_trigger {
         width: 30px;
         cursor: pointer;
         display: inline-block !important;
     }
+
     .menu_trigger span:nth-child(2) {
         margin: 6px 0;
     }
+
     .mainmenu.active {
         right: 0;
         visibility: visible;
         opacity: 1;
     }
+
     .mainmenu ul li {
         display: block;
         margin-left: 0;
         margin-bottom: 20px;
     }
+
     .mainmenu ul li a {
         font-size: 18px;
     }
+
     .menu_x {
         position: absolute;
         width: 25px;
@@ -964,12 +1200,3 @@
         display: inline-block;
     }
 }
-
-@media screen and (max-width: 992px) {
-    .home-hero {
-      background-position: left center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      padding: 180px 10px 100px;
-    }
-  }
