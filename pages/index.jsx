@@ -10,6 +10,7 @@ const Index = ({ products }) => {
     <>
       <Head>
         <title>Nora Proxies - Home</title>
+        <script src="https://embed.selly.io" />
       </Head>
       <div>
         <Header />
@@ -17,7 +18,6 @@ const Index = ({ products }) => {
         <Purchase products={products} />
         <ProxyGenFeatures />
         <Footer />
-        <script src="https://embed.selly.io" />
       </div>
     </>
   );

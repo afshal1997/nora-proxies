@@ -37,8 +37,8 @@ const ProxyGenFeatures = () => {
                     <p>Perfect for farming to one-click</p>
                     <h5>$4 (make noticeable somewhere)</h5>
                     <a
-                      href="#"
                       className="packagesBuyNow rounded-pill btn btnLogin btn-lg px-4 mt-4 d-block"
+                      data-selly-product="378aa128"
                     >
                       Buy Now
                     </a>
