@@ -57,9 +57,9 @@ const MainHeader = () => {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="m-auto">
               <Nav.Link className="text-light mx-3" href="/">Home</Nav.Link>
-              <Nav.Link className="text-light mx-3" href="#aboutUs">About Us</Nav.Link>
+              <Nav.Link className="text-light mx-3" href="#LearnMore">About Us</Nav.Link>
               <Nav.Link className="text-light mx-3" href="#features">Features</Nav.Link>
-              <Nav.Link className="text-light mx-3" href="/">Proxies</Nav.Link>
+              <Nav.Link className="text-light mx-3" href="#pricing-area home-intoduction">Proxies</Nav.Link>
               <Nav.Link className="text-light mx-3" href="#Mails">Mails</Nav.Link>
             </Nav>
             <Nav>

@@ -23,13 +23,19 @@ const Footer = () => {
               </li>
               <li>
                 <span className="social-links">
-                  <FontAwesomeIcon className="rounded-pill border border-primary p-2 fab fa-instagram" icon={faInstagram} />
+                  <a href="javascript:void(0)">
+                    <FontAwesomeIcon className="rounded-pill border border-primary p-2 fab fa-instagram" icon={faInstagram} />
+                  </a>
                 </span>
                 <span className="social-links">
-                  <FontAwesomeIcon className="rounded-pill border border-primary p-2 fab fa-instagram" icon={faTwitter} />
+                  <a href="https://twitter.com/SolutionsNora">
+                    <FontAwesomeIcon className="rounded-pill border border-primary p-2 fab fa-instagram" icon={faTwitter} />
+                  </a>
                 </span>
                 <span className="social-links">
-                  <FontAwesomeIcon className="rounded-pill border border-primary p-2 fab fa-instagram" icon={faDiscord} />
+                  <a href="https://discord.gg/PuzmjXRUYC">
+                    <FontAwesomeIcon className="rounded-pill border border-primary p-2 fab fa-instagram" icon={faDiscord} />
+                  </a>
                 </span>
               </li>
             </ul>

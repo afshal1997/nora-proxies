@@ -11,7 +11,7 @@ const Header = () => {
             <div className="col-lg-5 my-lg-5 py-lg-5" data-aos="fade-left">
               <div className="my-lg-5 py-lg-5">
                 <h1 className="fw-bold my-lg-4 py-lg-4 nora-text-primary">The Finest Proxies On The Market</h1>
-                <button className="rounded-pill btn btnLogin btn-lg px-4" type="submit">Learn More</button>
+                <a href="#LearnMore" className="rounded-pill btn btnLogin btn-lg px-4" type="submit">Learn More</a>
               </div>
             </div>
           </div>

@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="home-intoduction">
+    <div className="home-intoduction" id="LearnMore">
       <div className="container">
         <div className="row">
           <div className="col-lg-8 m-auto">
@@ -138,7 +138,7 @@ const About = () => {
             </div>
             <div className="container">
               <div className="col-lg-6 m-auto yt-thumbnail-video position-relative" data-aos="zoom-in-left">
-                <iframe className="w-100" src="https://www.youtube-nocookie.com/embed/07yZcDmWT4k?controls=0" title="YouTube video player"></iframe>
+                <iframe className="w-100" src="https://www.youtube-nocookie.com/embed/zKD72dItIes" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullScreen></iframe>
               </div>
             </div>
           </div>

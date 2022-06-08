@@ -5,6 +5,11 @@ const ProxyGenFeatures = () => {
     <div className="features-area home-intoduction">
       <div className="container">
         <div className="col-lg-10 m-auto">
+        <div className="col-lg-12 text-center" id="Mails">
+            <div className="area-title">
+              <h3 className="gradient-text mt-lg-4 my-sm-2 fw-bold">Mails</h3>
+            </div>
+          </div>
           <div className="packages">
             <div className="row">
               <div className="col-lg-4" data-aos="flip-left">
@@ -18,7 +23,7 @@ const ProxyGenFeatures = () => {
                     <p>Guaranteed V2 Invisible OC perfect for Supreme</p>
                     <p>Guaranteed V2 Checkbox OC perfect for supreme</p>
                     <p>Farming proxy Included(Check Discord Server for expiry)</p>
-                    <h5>$11 (make noticeable)</h5>
+                    <h5>$11</h5>
                     <a
                       className="packagesBuyNow rounded-pill btn btnLogin btn-lg px-4 mt-4 d-block"
                       data-selly-product="cc29a44a">
@@ -35,7 +40,7 @@ const ProxyGenFeatures = () => {
                     <p>Unwarmed Aged since 2008</p>
                     <p>Generated on a unique IP address </p>
                     <p>Perfect for farming to one-click</p>
-                    <h5>$4 (make noticeable somewhere)</h5>
+                    <h5>$4</h5>
                     <a
                       className="packagesBuyNow rounded-pill btn btnLogin btn-lg px-4 mt-4 d-block"
                       data-selly-product="378aa128"

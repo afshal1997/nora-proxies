@@ -5,7 +5,7 @@ const Purchase = ({ products }) => {
   useEffect(() => {}, [products]);
 
   return (
-    <div className="pricing-area home-intoduction">
+    <div className="pricing-area home-intoduction" id="pricing-area home-intoduction">
       <div className="container">
         <div className="row mb-5">
           <div className="col-lg-12 text-center">
