@@ -783,6 +783,9 @@
         padding: 20px 0;
     }
 
+    .row {
+        margin: auto;
+    }
 
 }
 
@@ -1198,5 +1201,11 @@
         left: 20px;
         cursor: pointer;
         display: inline-block;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .row {
+        margin: auto;
     }
 }
