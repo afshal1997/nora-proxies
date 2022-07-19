@@ -1203,9 +1203,3 @@
         display: inline-block;
     }
 }
-
-@media only screen and (max-width: 480px) {
-    .row {
-        margin: auto;
-    }
-}

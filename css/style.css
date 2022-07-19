@@ -1269,4 +1269,9 @@ textarea,
   .nora-logo {
     max-width: 50px;
   }
+
+  .row {
+    margin: auto !important;
+  }
+
 }
