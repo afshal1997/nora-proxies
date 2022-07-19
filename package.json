@@ -4,15 +4,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "start:dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
+    "start:prod": "next start",
     "export": "next export",
     "build:export": "npm run build && npm run export",
+    "lint": "next lint",
     "analyze": "cross-env ANALYZE=true next build",
     "analyze:server": "cross-env BUNDLE_ANALYZE=server next build",
-    "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build"
+    "analyze:browser": "cross-env BUNDLE_ANALYZE=browser next build",
+    "dev:static": "serve ./out"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
